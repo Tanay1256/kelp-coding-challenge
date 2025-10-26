@@ -1,0 +1,9 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,company.name
+Tanay,Bhagwani,21,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,Kelp
+Jane,Doe,28,123 Main St,,Anytown,CA,female,Google
+Peter,Jones,45,456 Oak Ave,Suite 300,Big City,NY,male,Microsoft
+Alice,Smith,19,789 Pine Ln,,Smallville,TX,female,Amazon
+Bob,Brown,62,101 Maple Dr,,Metropolis,IL,male,Facebook
+Charlie,Day,48,202 Second St,,Philly,PA,male,Paddys
+Diana,Prince,3000,1 Paradise Island,,Themyscira,DC,female,Justice League
+Bruce,Wayne,42,1007 Mountain Drive,,Gotham,NJ,male,Wayne Enterprises
