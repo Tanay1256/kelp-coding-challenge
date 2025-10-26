@@ -90,5 +90,6 @@ Here are the assumptions I made:
 Here is a screenshot of the console output after running the `/upload` endpoint with the sample data:
 
 **(Here, paste a screenshot of your terminal showing the report)**
+<img width="648" height="297" alt="image" src="https://github.com/user-attachments/assets/e4379431-8ae9-431e-9490-7bd3cafc080c" />
 
-![Age Distribution Report](./report.png)
+![Age Distribution Report](https://github.com/Tanay1256/kelp-coding-challenge/blob/main/kelp-challenge/report.png should include the complete path)
