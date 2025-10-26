@@ -91,4 +91,4 @@ Here is a screenshot of the console output after running the `/upload` endpoint 
 
 **(Here, paste a screenshot of your terminal showing the report)**
 
-![Age Distribution Report](PATH_TO_YOUR_SCREENSHOT.png)
+![Age Distribution Report](./report.png)
